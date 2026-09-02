@@ -53,8 +53,8 @@ ANOVA показала статистически значимое различ�
 
 ## Как запустить
 
-1. Открой `data/users.csv` и `data/events.csv` в DB Browser for SQLite
-2. Выполни запросы из `sql/01_aggregate_metrics.sql` и 
+1. Откройте `data/users.csv` и `data/events.csv` в DB Browser for SQLite
+2. Выполните запросы из `sql/01_aggregate_metrics.sql` и 
    `sql/03_window_functions.sql`
 3. Результат — `data/user_metrics.csv`
 4. Статистический анализ — `analysis/statistical_tests.xlsx`
