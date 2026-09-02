@@ -65,28 +65,9 @@ ANOVA показала статистически значимое различ�
 SQL (SQLite, оконные функции, подзапросы), Excel (F.ОБР, дисперсионный 
 анализ), Python (scipy.stats.f_oneway, statsmodels)
 
-## Структура репозитория
-
-push-notification-abc-test/
-├── README.md
-├── data/
-│ ├── users.csv
-│ ├── events.csv
-│ └── user_metrics.csv
-├── sql/
-│ ├── 01_aggregate_metrics.sql
-│ └── 03_window_functions.sql
-├── analysis/
-│ └── statistical_tests.xlsx
-├── notebooks/
-│ └── python_check.ipynb
-└── report/
-├── final_report.md
-
-
 ## Что можно улучшить
 
 - Тест Тьюки вместо Бонферрони для более точного контроля ошибки
 - Анализ гетерогенности эффекта по сегментам
 - Проверка novelty-эффекта на более длинном периоде теста
-└── open_rate_comparison.png
+open_rate_comparison.png
