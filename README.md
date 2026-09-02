@@ -76,8 +76,7 @@ statsmodels) — оба метода дают согласованный выв�
 ## Как запустить
 
 1. Откройте `data/users.csv` и `data/events.csv` в DB Browser for SQLite
-2. Выполните запросы из `sql/01_aggregate_metrics.sql` и 
-   `sql/03_window_functions.sql`
+2. Выполните запросы из `sql/01_srm.sql`, `sql/02_aggregate_metrics.sql`, `sql/03_open_rate.sql`, `sql/04_window_functions.sql`
 3. Результат — `data/user_metrics.csv`
 4. Статистический анализ — `analysis/statistical_tests.xlsx`
 5. Сверка на Python — `notebooks/python_check.ipynb`
