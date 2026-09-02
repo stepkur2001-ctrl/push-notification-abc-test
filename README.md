@@ -37,6 +37,9 @@ ANOVA показала статистически значимое различ�
 | B | ~25% |
 | C | ~35% |
 
+![open_rate](report/open_rate.png)
+![cumulative_opens](report/cumulative_opens.png)
+
 Полный отчёт: [report/final_report.md](report/final_report.md)
 
 ## Ключевые методологические решения
