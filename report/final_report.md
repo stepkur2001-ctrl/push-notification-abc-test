@@ -48,8 +48,8 @@ p-value практически равно нулю.
 C > B > A. Особенно выражено отличие C от A — вариант C кардинально 
 превосходит остальные.
 
-![open_rate](report/open_rate.png)
-![cumulative_opens](report/cumulative_opens.png)
+![open_rate](open_rate.png)
+![cumulative_opens](cumulative_opens.png)
 
 ## Рекомендация
 
